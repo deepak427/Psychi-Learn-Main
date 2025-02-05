@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset
+Models/datasetAPI/EEG-Motor-Movement-Imagery-Dataset/*.csv
+
+# Virtual Enviournment
+psychi-learn/
