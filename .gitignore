@@ -3,7 +3,9 @@ __pycache__/
 *.pyo
 
 # Dataset
-Models/datasetAPI/EEG-Motor-Movement-Imagery-Dataset/*.csv
+Models/datasetAPI/EEG-Motor-Movement-Imagery-Dataset/eegmmidb_matlab_files
+Models/datasetAPI/EEG-Motor-Movement-Imagery-Dataset/eegmmidb
+Models/datasetAPI/EEG-Motor-Movement-Imagery-Dataset/Processed-Data/
 
 # Virtual Enviournment
 psychi-learn/
